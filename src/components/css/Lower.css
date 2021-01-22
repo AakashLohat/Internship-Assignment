@@ -1,0 +1,42 @@
+.main__section {
+    width: 40%;
+    transform: translate(50%);
+    height: 14vh;
+    margin-left: 10%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sunrise {
+    margin-left: -90px;
+    position: absolute;
+}
+
+.graph {
+    margin-top: 20%;
+    background-color: rgb(255, 221, 221);
+    height: 70px;
+    width: 140px;
+    border-radius: 90px 90px 0 0;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+}
+
+.graph .MuiSvgIcon-root {
+    position: absolute;
+    color: yellow;
+    font-size: 40px;
+}
+
+.inner__system {
+    border: 1px solid black;
+    margin-top: 68px;
+    width: 260px;
+    transform: translate(-24%, 50%);
+}
+
+.sunset {
+    margin-right: -90px;
+}

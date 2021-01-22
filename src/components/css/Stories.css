@@ -1,0 +1,9 @@
+.stories {
+    margin-top: 5px;
+    display: flex;
+    background: var(--white);
+    padding: 2px;
+    width: 97px;
+    margin-left: 5px;
+    border-radius: 3px;
+}

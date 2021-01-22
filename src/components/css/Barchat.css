@@ -1,0 +1,7 @@
+.something__graph {
+    width: 160%;
+    height: 170px;
+    transform: translate(50%);
+    margin-left: -100%;
+    margin-top: -30%;
+}
